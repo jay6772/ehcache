@@ -1,0 +1,7 @@
+jp\ehcache\Springbootehcachedemo\service\ItemCacheService.class
+jp\ehcache\Springbootehcachedemo\config\CassandraConfig.class
+jp\ehcache\Springbootehcachedemo\model\Item.class
+jp\ehcache\Springbootehcachedemo\SpringbootEhcacheDemoApplication.class
+jp\ehcache\Springbootehcachedemo\repository\ItemRepository.class
+jp\ehcache\Springbootehcachedemo\controller\ItemController.class
+jp\ehcache\Springbootehcachedemo\config\EHCacheConfig.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: jp.ehcache.Springbootehcachedemo.SpringbootEhcacheDemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.308 s - in jp.ehcache.Springbootehcachedemo.SpringbootEhcacheDemoApplicationTests

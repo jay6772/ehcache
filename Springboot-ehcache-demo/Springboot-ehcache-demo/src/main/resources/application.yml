@@ -1,0 +1,19 @@
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
+cassandra-config:
+    contact-points: 127.0.0.1
+    port: 9042
+    keyspace-name: einv_im_dev
+    username: einvappusr
+    password: 7C2eAk4LR23K34ye@
+    datacenter: datacenter1
+
+spring:
+  cache:
+    ehcache:
+      config: classpath:ehcache.xml
+    cache-names: itemCache    type: ehcache
